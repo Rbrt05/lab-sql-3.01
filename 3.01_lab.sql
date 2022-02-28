@@ -61,4 +61,4 @@ WHERE customer_id = 130;
 # Activity 2 
 SELECT * FROM film as f;
 
-#LINK:
+#LINK: https://dbdiagram.io/d/621d3b7a54f9ad109a353a14
